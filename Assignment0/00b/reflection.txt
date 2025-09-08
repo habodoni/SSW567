@@ -1,0 +1,11 @@
+Challenges I faced:
+At first, I had to think carefully about how to handle cases where the numbers do not make a valid triangle. Another small challenge was checking right triangles when using floating-point numbers, but using a tolerance fixed that problem.
+
+Requirements specification:
+The requirements were clear and easy to follow. They told me exactly what to build: a function to classify triangles and tests to check it.
+
+Challenges with the tools:
+I needed a refresher on how to use unittest, since I hadn’t worked with it in a while. Once I looked at examples and practiced, it was easy to get my tests running. GitHub also worked fine after setting it up.
+
+How I knew I was done testing:
+I made sure to test every type of triangle: equilateral, isosceles, scalene, and right. I also tested edge cases like “not a triangle” and when sides are zero or negative. When all tests passed, I felt confident that I had enough test cases.
