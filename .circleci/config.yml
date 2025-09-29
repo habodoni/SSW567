@@ -7,8 +7,12 @@ jobs:
     working_directory: ~/project/Assignment3
     steps:
       - checkout
-      - run: pip install -r requirements.txt
-      - run: python -m unittest -v
+      - run:
+          name: Install requirements
+          command: pip install -r ../requirements.txt
+      - run:
+          name: Run unit tests
+          command: python -m unittest -v
 
 workflows:
   version: 2
