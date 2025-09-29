@@ -1,6 +1,6 @@
 # Assignment 3 – GitHub API (Tester's Mindset)
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/habodoni/SSW567/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/habodoni/SSW567/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/habodoni/SSW567/tree/HW03a_Mocking.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/habodoni/SSW567/tree/HW03a_Mocking)
 
 ## How to Run
 
