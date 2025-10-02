@@ -1,0 +1,8 @@
+Name                               Stmts   Miss  Cover   Missing
+----------------------------------------------------------------
+Assignment0/00b/__init__.py            0      0   100%
+Assignment0/00b/test_triangle.py      28      1    96%   46
+Assignment0/00b/triangle.py           16      0   100%
+Assignment0/__init__.py                0      0   100%
+----------------------------------------------------------------
+TOTAL                                 44      1    98%
